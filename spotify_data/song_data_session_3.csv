@@ -1,0 +1,40 @@
+timestamp_start,timestamp_end,name,artist,uri,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+1637344108.7784972,1637344124.0268872,Consecrated and Consumed,Of Feather And Bone,spotify:track:5OFFImGsOPeg59u0df2YU8,voidgrind,0.0739,0.996,10,-4.542,1,0.106,3.17e-06,0.599,0.0328,0.0232,176.288,4
+1637344139.4359992,1637344154.611847,Ulrikas Dans,Arild Andersen,spotify:track:7l2QhRG580LEeTftZ4CLVJ,swedish jazz,0.319,0.253,7,-19.364,1,0.0432,0.739,0.827,0.689,0.328,98.533,3
+1637344169.9492383,1637344185.1126876,Story of an Artist,Daniel Johnston,spotify:track:41mErQhqRBmHD41YhChsUB,outsider,0.415,0.313,2,-11.147,0,0.0415,0.986,0.264,0.323,0.687,108.08,4
+1637344200.4327538,1637344215.7560484,Boy You´re Alright,Tupelo Honeys,spotify:track:148O5WxdDB8vGsgH0YMX51,svensk indie,0.522,0.881,4,-2.392,1,0.0384,0.0582,0.000546,0.241,0.49,95.528,4
+1637344231.7782562,1637344246.9598255,Umipnai Chatuainu,Alter Yechiel Karniol,spotify:track:6z19giqEJVhD0eSZpkuZli,jewish cantorial,0.247,0.246,11,-12.867,1,0.0491,0.972,0,0.164,0.131,108.999,3
+1637344263.2442725,1637344278.4389372,Unkind and Unwise - Live at the Town and Country Club,The Go-Betweens,spotify:track:0kMHF27lWez7LCYuVRdtq2,australian country,0.408,0.851,7,-7.824,1,0.0666,0.0626,0.0121,0.74,0.633,139.7,3
+1637344293.7419488,1637344308.945613,Me and Bobby Mcgee,Gordon Lightfoot,spotify:track:2GqdY4hcw56dBX8M6qtT8L,classic uk pop,0.692,0.224,4,-16.513,1,0.0356,0.828,0.054,0.0479,0.484,87.434,4
+1637344324.5708907,1637344339.9026542,Sama'i Nawa Athar,Hicham Chami,spotify:track:1Q1G3Ck6EYoK5jBcXwUxZJ,turkish classical,0.675,0.397,7,-14.502,1,0.0407,0.917,0.866,0.208,0.682,110.189,5
+1637344356.0766666,1637344371.218895,Raised On Rock,Blindside Blues Band,spotify:track:0ac8z77CmJqcrn5On7M9Cx,power blues rock,0.227,0.798,2,-5.839,0,0.0526,0.000744,0.0024,0.85,0.539,135.665,4
+1637344386.9112864,1637344402.0532618,A Man And The Blues,Buddy Guy,spotify:track:5vbw9boDHRHLZiv90e2ZVx,modern blues,0.504,0.212,0,-16.756,1,0.0408,0.893,0.22,0.0817,0.233,108.629,4
+1637344418.1635778,1637344433.301985,Show of Force,Galaxian,spotify:track:5Q6q43ZYVd11aWPNzQ3mEW,scottish electronic,0.621,0.852,6,-10.791,0,0.0705,0.00192,0.881,0.126,0.324,74.998,3
+1637344449.6799412,1637344464.829532,Loputon Blues - Mess of Blues,Topi Sorsakoski,spotify:track:0VvgBpLlNgGHYNiLqPKsoS,finnish blues,0.691,0.564,0,-5.82,1,0.0373,0.147,0,0.32,0.841,108.335,4
+1637344480.075758,1637344495.2430022,"Corroboree, Suite from the Ballet: III. A Rain Dance",John Antill,spotify:track:4h1IWSB93ayyjTRMmGtQXi,australian classical,0.259,0.319,0,-19.079,1,0.0839,0.788,0.00272,0.0747,0.0924,172.876,4
+1637344510.489711,1637344525.6969204,Boss - work in progress,FEMM,spotify:track:55RPcOFyRxTnJmGAskwZ4V,japanese prog,0.819,0.407,4,-8.888,0,0.0513,0.0923,0.876,0.11,0.0372,130.048,4
+1637344541.060991,1637344556.2648802,"Coppélia, Act I: No. 1, Valse",Léo Delibes,spotify:track:13rjewukwM3HxxoRTx1uQ6,french opera,0.267,0.122,3,-19.132,1,0.0401,0.926,0.915,0.105,0.373,143.569,3
+1637344572.341924,1637344587.5094714,Galiano: Opale Concerto: II. Moderato malinconico,Richard Galliano,spotify:track:3nd61u7L5HBqI8wzHlyVNs,jazz accordion,0.17,0.062,2,-21.966,0,0.0418,0.858,0.0207,0.378,0.0462,106.186,3
+1637344602.8896499,1637344618.0356174,Inward,Thou,spotify:track:497aJqGyolpoLwRzUTYq1s,voidgrind,0.118,0.725,2,-8.323,1,0.0563,7.02e-06,0.59,0.453,0.316,72.808,4
+1637344633.317385,1637344648.4875984,Como Te Olvido,Sergio Acosta,spotify:track:5atZVRRULZ0BoTH4vqoNoT,guaracha,0.817,0.619,11,-6.654,0,0.0577,0.219,0.000109,0.0549,0.602,127.996,4
+1637344664.0221853,1637344679.182891,Punk Freud Armada (Live),Pink Freud,spotify:track:3BS0s7GiI5xNkpTAEzv4Y2,polish punk,0.649,0.937,9,-5.661,1,0.0466,0.00537,0.531,0.626,0.75,110.074,4
+1637344694.5446768,1637344709.807834,Have Yourself a Merry Little Christmas,Al Jarreau,spotify:track:0FdyA6lQt4V0NoyI9bk758,smooth soul,0.612,0.538,9,-9.54,1,0.0301,0.61,9.78e-05,0.101,0.512,144.083,4
+1637344725.0546305,1637344740.6949706,Hele Norge roper ulv,Black Debbath,spotify:track:4wVTvZbdltTp92Rt93I8OF,doom metal,0.278,0.852,7,-7.368,0,0.08,0.000526,0.0352,0.187,0.253,115.477,4
+1637344755.9576132,1637344771.0999308,All I Need,[re:jazz],spotify:track:3bUrwdAPrWMiQVoNYwwYNV,nu jazz,0.724,0.34,7,-13.688,0,0.0271,0.735,0.00792,0.118,0.431,93.011,4
+1637344786.376714,1637344801.6112862,Ring of Fire,Andreas Piepenburg,spotify:track:3RWy163YnLxCxZuEvP64sv,deep discofox,0.718,0.952,7,-3.955,1,0.0344,0.00639,0.342,0.097,0.928,116.013,4
+1637344816.936935,1637344832.0899556,America Salsa Choke y Gol,Patio 4,spotify:track:6eBlCbyDBAMfyiWTWVT5uN,salsa choke,0.798,0.872,9,-3.055,0,0.255,0.672,0,0.729,0.734,98.022,4
+1637344847.4099383,1637344862.6226048,Índios - Ao Vivo,Biquini Cavadão,spotify:track:7aolD66P6IXPakMf8c315s,rock tico,0.483,0.893,7,-4.609,1,0.0637,0.0192,0.000153,0.78,0.434,155.972,4
+1637344878.031992,1637344893.1957614,Back On The Rocks - Extended Mix,MEGA NRG MAN,spotify:track:1V3aM3e9Jfyl4OpSiNIbvX,euro hi nrg,0.494,0.996,0,-1.708,1,0.0465,0.000579,0.00137,0.114,0.534,156.062,4
+1637344908.4578276,1637344923.6232648,Union - Groove Mix,Desert Dwellers,spotify:track:3Ko5oOHlziMVcfr5Ne1gkM,psychill,0.606,0.591,6,-13.163,0,0.039,0.422,0.947,0.217,0.186,99.982,4
+1637344938.9650502,1637344954.108271,Igra Zvana Hip Hop,BG Kult,spotify:track:0ymbRE65B7EGoR7Xsni76y,balkan hip hop,0.777,0.86,11,-4.581,1,0.406,0.0934,0,0.0435,0.848,96.494,4
+1637344969.434582,1637344984.7681353,Horsin' Around,The Soul Brothers,spotify:track:0yXlBfApf6Zhz1JrACep76,arab groove,0.621,0.761,5,-9.167,1,0.0358,0.1,0.888,0.384,0.896,128.783,4
+1637345000.0887895,1637345016.035646,Aliou wara,Mohamed Saïdou Sow,spotify:track:6lhaU1n8MDMcbB1B3xpVy4,musique peule,0.483,0.0148,6,-21.856,1,0.107,0.963,0.000863,0.314,0.466,129.621,3
+1637345031.2853215,1637345046.5197666,Add-Space-To-Time,Software,spotify:track:7ahmbnarBp2sas35tL94e4,organic electronic,0.517,0.467,4,-17.006,0,0.0384,0.0902,0.352,0.0977,0.0396,163.228,4
+1637345062.1084752,1637345077.2986946,"Lago di Bonzo (Tegernsee) - Orig. ""You never can tell""",Zither Manä,spotify:track:5oWmOix8FknFhX8ijjq1hD,zither,0.689,0.539,2,-8.301,1,0.0428,0.886,0,0.253,0.546,125.367,4
+1637345093.000314,1637345108.3069174,"I-Ching Variations, for brass quintet and live electronics: Second Movement",Per Mårtensson,spotify:track:7CSwJSUxlUWtRWNbq2rwaT,swedish electronic,0.369,0.245,8,-21.216,1,0.0626,0.957,0.903,0.428,0.0757,128.858,3
+1637345124.137866,1637345139.3289025,International Love,Fidel Nadal,spotify:track:6WnHvniJIHbDGe9Re8c591,reggae mexicano,0.669,0.791,11,-6.632,1,0.0397,0.35,0,0.112,0.927,87.97,4
+1637345155.0403254,1637345170.3576436,Les Noces: Part I : The Departure of the Bride,Igor Stravinsky,spotify:track:5rqPChuyG3trYkxVCp8gzY,russian metal,0.378,0.284,4,-15.127,0,0.114,0.983,0.000302,0.096,0.0494,120.151,4
+1637345185.666774,1637345200.9504592,Toi et moi,Stephanie Methot,spotify:track:25kYqMwshK7o2YXrIscyb5,bal musette,0.595,0.408,5,-12.552,1,0.0267,0.854,0.0976,0.163,0.473,106.012,3
+1637345216.4229517,1637345231.7581134,Otro Amor Llego,Los Silver Star,spotify:track:759uPQuPn0hm8ZclHOVRn9,punta,0.779,0.873,2,-5.873,0,0.0613,0.147,2.98e-06,0.0703,0.96,116.982,4
+1637345247.1081157,1637345262.613136,Sardegna Stand Up live intro,Sa Razza,spotify:track:1pLDGbzaNVYGQE9Lwgonvo,rap sardegna,0.603,0.645,9,-12.466,0,0.155,0.457,0.0127,0.368,0.638,184.134,4
+1637345277.8485167,1637345292.9861648,Dance Party Megamix (Kids Song Medley - Hokey Pokey / Clap Concert / If You Are Happy And You Know It / Bummy Bubbles / The MOLEvelous Three),LINE FRIENDS,spotify:track:4rmGWLFHvjcPwmEHACCAPW,dong yo,0.471,0.974,5,-4.282,1,0.173,0.0123,0,0.0414,0.774,151.202,4

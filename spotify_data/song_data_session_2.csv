@@ -1,0 +1,23 @@
+timestamp_start,timestamp_end,name,artist,uri,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+1637342909.2735758,1637342924.5564256,Henna - Oriental Latin Pop,Khaled,spotify:track:4KVpghUf5Kq7jGJWAb7Oht,arab pop,0.619,0.96,2,-4.676,1,0.0631,0.00276,0,0.1,0.573,106.945,4
+1637342940.4868386,1637342955.78878,Im Yarn Es - Remix,Paul Baghdadlian,spotify:track:6mAlev4V00laOYVs4SaKHz,armenian pop,0.733,0.942,0,-6.837,0,0.0758,0.0621,0.0612,0.0333,0.972,120.007,4
+1637342971.0509439,1637342986.211614,Just a Closer Walk With Thee,Pete Fountain,spotify:track:0crCWOYbMWjlC4pnbMqSyV,new orleans jazz,0.544,0.246,9,-15.127,0,0.0406,0.824,0.863,0.32,0.193,96.118,4
+1637343001.6601691,1637343016.8934736,Ribbons And Bows,Kacey Musgraves,spotify:track:7qHE60ANG98YCooP2ABt7H,country,0.732,0.862,1,-3.048,1,0.0604,0.309,0,0.0658,0.711,137.314,4
+1637343032.2448912,1637343047.4680028,Count Your Blessings Instead Of Sheep,Diana Krall,spotify:track:7ehK8AyBjQaCmWyJqlC8Df,contemporary gospel,0.209,0.219,3,-13.714,1,0.0368,0.763,7.16e-06,0.061,0.113,78.063,3
+1637343062.748831,1637343077.8948333,Night and Day,Sant Andreu Jazz Band,spotify:track:0Azp0uq7V0bRzvTGZbr6tN,spanish jazz,0.661,0.455,8,-7.978,1,0.0656,0.775,0.000482,0.678,0.389,62.924,4
+1637343093.3593795,1637343108.5281477,Alone In The Technogenic Desert - Perforated Cerebral Party Remix,Alex Cool,spotify:track:4mfPgsFA1ACFdvBIXDmSgq,somatik techno,0.699,0.661,10,-10.798,0,0.0636,0.00309,0.91,0.0917,0.262,180.008,4
+1637343123.8019462,1637343139.0141299,Only Fans - Remix,Young Martino,spotify:track:1QaCsLoKEWVujL3owyyei4,reggaeton flow,0.722,0.745,1,-5.559,0,0.345,0.422,0,0.191,0.818,163.012,4
+1637343154.8465815,1637343170.1635144,In Between Beast and Freak,Waterbug,spotify:track:4ZqIckTCIgSPdYoO5yIotT,svensk indie,0.488,0.737,2,-4.612,1,0.0263,0.047,5.29e-05,0.113,0.545,81.373,4
+1637343185.519385,1637343200.8033276,Unleash the Wolf,Lonewolf,spotify:track:5pdNpdN1X3CcDk2JFFNk2d,french metal,0.313,0.868,10,-6.797,1,0.0535,0.000143,0.0349,0.162,0.389,165.22,4
+1637343216.2157242,1637343231.5849607,Bass Solo in Ten Styles,Charles Berthoud,spotify:track:1uS8ohHBm0Bd01L0MLQDMu,electric bass,0.393,0.607,9,-11.969,1,0.05,0.664,0.883,0.102,0.87,127.51,4
+1637343247.0109196,1637343262.1738162,10 Pratyahara (Ambient Mix),Meridian Dream,spotify:track:0GimgOT8KWjyFJ3fqmLOqo,future ambient,0.564,0.275,9,-20.289,0,0.031,0.848,0.858,0.0928,0.14,132.004,4
+1637343277.4688363,1637343292.6517298,On My Soul,Meek Mill,spotify:track:1cHFHTOMDb3zHcDwumFSCw,southern soul,0.571,0.525,6,-7.785,0,0.343,0.161,0,0.164,0.306,119.205,5
+1637343308.249334,1637343323.5442116,"String Quartet in D Minor, K. 421: I. Allegro",Yale String Quartet,spotify:track:43wNTZCzv21LHo5QTKNVCa,historic string quartet,0.403,0.109,2,-19.756,0,0.0367,0.958,0.717,0.103,0.266,93.51,4
+1637343338.8482354,1637343354.0124812,Consequence of Leaving - Oren Amram SynthesizeMe Remix,Erotic Elk,spotify:track:7bYo8vlDsGZBjxUDgDznWa,swedish synth,0.536,0.806,4,-14.242,0,0.0368,0.00953,0.0231,0.106,0.602,134.032,4
+1637343369.3426752,1637343384.5153613,Kings And Queens Of Summer,Matstubs,spotify:track:2iNIdJqx4zvsOA1eY8I4QZ,trap queen,0.809,0.71,9,-6.15,0,0.108,0.344,4.13e-06,0.162,0.353,110.036,4
+1637343399.9687345,1637343415.1446364,Liedje Voor Wanneer Ik Geen Idee Heb Wat Te Spelen - Outro,Gerson Main,spotify:track:7dvi2RAvOAS3sRTqGxUrib,dutch singer songwriter,0.698,0.202,9,-16.848,1,0.0541,0.978,0.328,0.0796,0.516,85.083,4
+1637343430.426384,1637343445.657859,Other Way Around,Rites of Spring,spotify:track:2bFiq2DtOLzl9vLE8aX8ob,emocore,0.279,0.919,2,-6.748,1,0.0567,8.78e-05,0.837,0.308,0.611,123.435,4
+1637343461.0458739,1637343476.4425292,"Visions, Scenes and Dreams",Zero Nine,spotify:track:7gaCzfpIFRlyUMpbmtVAv0,classic finnish rock,0.384,0.928,2,-3.756,1,0.122,0.000709,4.71e-05,0.379,0.297,80.719,4
+1637343492.0787177,1637343507.2985716,Shiver And Shake,Ryan Adams,spotify:track:0M4C151vgJbVnCYDQ6AHCS,alternative roots rock,0.389,0.443,9,-12.13,1,0.0316,0.702,0.000135,0.0936,0.141,144.024,4
+1637343522.646849,1637343537.8305106,A Familiar Sound (feat. Kinnego Flux) - Instrumental,Boxcutter,spotify:track:0mDhLZeOSrrwdHfhRBCbQC,purple sound,0.717,0.425,10,-14.742,0,0.0571,0.0725,0.793,0.0893,0.411,134.982,4
+1637343553.2277162,1637343568.4455743,Innaleyum,Arun Alat,spotify:track:6zxNX1KFzP2kbIt8rfZwzP,mollywood,0.654,0.345,5,-10.144,1,0.0302,0.757,6.11e-06,0.088,0.4,124.821,4

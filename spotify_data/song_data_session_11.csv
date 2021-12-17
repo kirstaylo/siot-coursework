@@ -1,0 +1,59 @@
+timestamp_start,timestamp_end,name,artist,uri,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+1638871278.1351798,1638871293.340414,Inzerát,Katapult,spotify:track:7a6tjCvmXmgTa5FmaFr3Zf,czech rock,0.433,0.871,9,-7.939,1,0.0688,0.222,0.000531,0.348,0.564,89.845,4
+1638871308.780557,1638871323.9883232,I Feel It Coming,The Weeknd,spotify:track:3dhjNA0jGA8vHBQ1VdD6vV,canadian punk,0.773,0.819,0,-5.946,0,0.118,0.428,0,0.0679,0.585,92.987,4
+1638871339.3734667,1638871354.5740683,Ain't No Mountain High Enough,Marvin Gaye,spotify:track:7tqhbajSfrz2F7E1Z75ASX,funk,0.663,0.6,7,-10.87,1,0.032,0.43,0,0.184,0.8,129.991,4
+1638871369.9316645,1638871385.1482954,No Love (Intro),Kisé,spotify:track:1lG9Nc7WL57ePR0PBOl3wb,magyar,0.67,0.709,10,-6.267,0,0.0393,0.0261,0,0.268,0.412,155.043,4
+1638871400.5451503,1638871415.6861632,Hammer Of Doubt,Power Trip,spotify:track:29xwCZqUc6Fr095z24q3co,texas hardcore,0.271,0.973,11,-5.562,1,0.104,2.36e-06,0.896,0.33,0.205,96.027,4
+1638871430.9614687,1638871446.2409723,"Nocturnes, Op. 15 (1928): No. 2",Alexander Mosolov,spotify:track:2zOhYGMMvPF6O50NGoNhqZ,early avant garde,0.399,0.0666,6,-19.724,1,0.0479,0.957,0.79,0.0812,0.0693,148.609,4
+1638871461.5389316,1638871476.7349398,Missa Octavo Tono,Tomás de Torrejón y Velasco,spotify:track:69kv0yc2vIlmO7w6TrSQLG,spanish baroque,0.21,0.103,6,-17.775,1,0.0498,0.988,9.23e-05,0.0852,0.0888,79.791,4
+1638871492.1640115,1638871507.464658,Aan De Amsterdamse Grachten,Draaiorgel De Columbus,spotify:track:0k1B2SBAOCWhdXGoIvXGlx,draaiorgel,0.55,0.234,2,-11.383,1,0.0309,0.812,0.0128,0.0964,0.786,95.631,3
+1638871523.0900955,1638871538.3076925,Sleep in the Den (Indie Song 2),LED,spotify:track:0ojtzPPwI81aHe54uMCBIL,idaho indie,0.582,0.656,4,-6.887,0,0.0321,0.644,2.74e-05,0.162,0.329,160.0,4
+1638871554.0542212,1638871569.5167167,Pop Off,Jaylon Ashaun,spotify:track:3HHLXheVrANZRA63JogXmn,christian pop,0.786,0.809,7,-5.356,0,0.0413,0.0256,3.26e-06,0.123,0.715,130.009,4
+1638871585.0499704,1638871600.2361064,Trap (feat. Bandgang Masoe & Paid Will),7mileclee,spotify:track:4Yk9CamWXzc7gClnmPt8ZY,detroit trap,0.514,0.619,7,-6.934,1,0.181,0.0118,8.28e-06,0.135,0.429,176.476,3
+1638871615.8540354,1638871631.0603867,Dicks & Noses,Hip Hop Hoodíos,spotify:track:1y5QydPSkNbdyGv8rMcvoS,jewish hip hop,0.695,0.936,8,-3.246,0,0.175,0.00253,0.00773,0.341,0.712,96.985,4
+1638871646.632316,1638871661.858334,Sonata romantica: II. Andante espressivo,Manuel Ponce,spotify:track:2akeYb2ccaoFF0iKjQGY94,mexican classical,0.482,0.0065,6,-33.938,0,0.063,0.991,0.931,0.122,0.225,124.825,4
+1638871677.1283374,1638871692.3577883,Antibodies - Dombresky & Boston Bun Remix,Tensnake,spotify:track:65inYRk3nCPdMAhmUOsGGg,filter house,0.735,0.898,10,-4.914,1,0.0462,0.0129,0.071,0.0168,0.646,123.012,4
+1638871707.606736,1638871722.7656493,Only Time,Enya,spotify:track:6FLwmdmW77N1Pxb1aWsZmO,celtic,0.418,0.249,3,-13.744,1,0.0301,0.841,0.661,0.112,0.213,82.803,4
+1638871738.0890896,1638871753.3212662,Nikolaus und Nikoletta,Volker Rosin,spotify:track:7BLiz69g5CEiAb8HM2ZKBv,liedermacher,0.684,0.691,5,-3.446,1,0.0321,0.409,0,0.142,0.651,120.037,4
+1638871768.724634,1638871783.9004407,Momino Haider e Karar,Nadeem Sarwar,spotify:track:35urZ1nvqdwcgnSZm20HjF,nohay,0.625,0.734,7,-1.791,1,0.0391,0.871,0,0.245,0.809,61.974,3
+1638871799.228784,1638871814.4312046,INQB8TR,Bark Psychosis,spotify:track:3rZk2gTd3WeFIJLTd4PJ9X,experimental psych,0.509,0.368,4,-15.599,0,0.0397,0.829,0.927,0.156,0.171,100.758,4
+1638871829.6947665,1638871844.927654,It's a Long Way to Tipperary,"The Regimental Band, Bugles, Pipes & Drums",spotify:track:67pQUjvzEtWmbf0Fs53mKN,marching band,0.715,0.276,10,-15.754,1,0.0377,0.949,0.715,0.055,0.905,116.216,4
+1638871860.1807284,1638871875.3963234,Stumble Upon A Glass,Love Me Butch,spotify:track:2erqw4mZPXXOgknfjNChdz,malaysian pop,0.319,0.928,7,-5.042,1,0.0632,0.000417,0.0145,0.228,0.466,88.139,4
+1638871890.695471,1638871905.9054644,Unknown,Unknown,spotify:track:0lXjOrFdMPk740cWa5WFFG,moravian folk,0.414,0.555,2,-6.967,0,0.0335,0.753,0.000684,0.0468,0.674,134.87,4
+1638871921.238717,1638871936.4657888,I Bid You Goodnight,Bahamas Folk,spotify:track:65hFQlpCXnwZrUhPIjJnNc,bahamian folk,0.494,0.13,4,-19.605,0,0.0796,0.907,0,0.157,0.424,136.47,4
+1638871951.7833204,1638871967.0020146,Indescribable,Samantha Sams,spotify:track:0P7c0zVOEvJAi6wp8TNIcN,pinoy praise,0.384,0.271,1,-16.862,1,0.0325,0.621,0,0.298,0.404,175.874,3
+1638871982.4666634,1638871997.6877632,Sibelius : Violin Concerto in D minor Op.47 : I Allegro moderato,Jean Sibelius,spotify:track:1EkQJ4dyuHHesHbzA3UNUY,finnish choir,0.24,0.153,10,-21.73,1,0.0488,0.903,0.668,0.322,0.0472,135.185,4
+1638872013.0211344,1638872028.2009404,Añoranzas,Grupo Bolivia,spotify:track:02VFMISDBL4jPFU5PEDIx2,folklore boliviano,0.504,0.839,4,-6.147,0,0.0868,0.239,0,0.169,0.936,82.043,4
+1638872043.7216392,1638872058.8906379,Blood On Me,SVDDEN DEATH,spotify:track:4dblKUfR2u2iQXCQ82awv6,deathstep,0.72,0.706,2,-1.93,0,0.0449,0.104,0.000447,0.12,0.346,140.043,4
+1638872074.139823,1638872089.361679,Out There,Electrosoul System,spotify:track:18ZrE4b0hadUr5yPVPOjE5,liquid funk,0.686,0.881,8,-5.851,0,0.0639,0.000584,0.92,0.0941,0.342,172.013,4
+1638872105.2312315,1638872121.1420865,I'R Gad,Dafydd Iwan,spotify:track:1RG26IABMvNLBxtBftnQNX,cymraeg,0.518,0.469,4,-10.732,1,0.0282,0.327,0,0.166,0.609,124.853,4
+1638872136.4950206,1638872151.6564236,"UP & DANCE, UP & GO - Extended Version",Lou Master,spotify:track:3tZaFKKWPoZ5lq5Sd3Wp0I,eurobeat,0.451,0.949,7,-5.269,0,0.044,0.000307,0.000361,0.351,0.553,158.052,4
+1638872166.9788642,1638872182.1929052,The Nutcracker Suite: Dance of the Sugar Plum Fairy,The Copper Street Brass Quintet,spotify:track:1idVUImq0UyvBB4I0dl1SX,brass quintet,0.581,0.0611,2,-17.472,1,0.0987,0.992,0.922,0.102,0.13,105.57,4
+1638872198.1641648,1638872213.5593088,I Can Only Imagine,Emerson Drive,spotify:track:5a7q2dPMLJyf0Bd8oelnMv,alberta country,0.422,0.438,3,-7.218,1,0.0323,0.203,1.09e-06,0.167,0.142,81.925,4
+1638872229.0081925,1638872244.2267272,The Pure and the Damned,Oneohtrix Point Never,spotify:track:4x79863wyp2dhJOiZYKPZN,folk pop,0.258,0.191,11,-15.52,1,0.0341,0.359,0.805,0.0831,0.0394,103.286,5
+1638872259.8916364,1638872275.0527353,The Fox in the Thatch / The Snow on the Mountain / Killyglass Lakes,"Mick, Louise and Michelle Mulcahy",spotify:track:2zx7fGlhBqD1Jm9KulOJli,jig and reel,0.543,0.445,0,-8.25,1,0.0561,0.974,0.63,0.0796,0.97,95.265,5
+1638872290.348623,1638872305.6449366,639 Hz Attract Love & Raise Positive Energy,Miracle Tones,spotify:track:6RUOuyUt7978wDdDyBVx84,meditation,0.261,0.29,4,-21.365,1,0.0403,0.947,0.634,0.0976,0.0665,66.172,5
+1638872321.927674,1638872337.134499,Mighty and Superior,Conflict,spotify:track:60u6pJROq3Hd2BGQoeJn18,uk82,0.231,0.983,0,-5.731,1,0.284,0.111,0.0511,0.427,0.0973,81.602,4
+1638872352.4004347,1638872367.5740905,A Estos Hombres Tristes (En Vivo) (with Almendra),Luis Alberto Spinetta,spotify:track:49DYAaNjI1SCyMVXsxL2JJ,indie triste,0.302,0.612,4,-10.326,0,0.0483,0.34,0.000187,0.0954,0.326,82.31,4
+1638872382.8949118,1638872398.1334813,Ain't No Use - Mo' Soul Mix,Pure Wildness,spotify:track:3bwuCp2Dm2uRGpS2cgbLSQ,acid jazz,0.652,0.551,7,-14.52,1,0.0355,0.179,0.0361,0.0986,0.608,99.22,4
+1638872414.1697428,1638872429.4125068,A Game of Croquet,Jóhann Jóhannsson,spotify:track:21lsdnxagzViwbRqNY0tCK,nordic soundtrack,0.22,0.043,4,-28.726,0,0.0438,0.975,0.402,0.062,0.11,118.456,3
+1638872444.8466296,1638872460.054659,Ajatukset Ja Asiat,Aavepyora,spotify:track:1r7pf2azs93ds6WCLLxYOl,suomisaundi,0.634,0.952,11,-7.868,0,0.05,0.000634,0.747,0.0723,0.842,137.04,4
+1638872475.3010583,1638872490.528713,Thank God I'm a Country Boy - Aussie Version,Josh Arnold,spotify:track:0f4D1eASSpVO1fcFIB2yna,australian country,0.617,0.898,4,-5.286,1,0.0657,0.134,0,0.325,0.746,110.357,4
+1638872505.8318107,1638872521.043256,Organ Grinder's Swing,Buster Smith,spotify:track:7oCCAXRqAKfya5jPNjASjV,jazz organ,0.6,0.439,10,-13.52,1,0.0622,0.748,0,0.153,0.679,135.86,4
+1638872536.387201,1638872551.6337032,Luna de Papel (Papermoon Opening 2 Latino from Soul Eater),Salomé Anjarí,spotify:track:0NfIyeOLvm27ky2C9V2DIZ,anime latino,0.453,0.954,7,-6.155,0,0.0604,0.00242,0.00473,0.384,0.41,164.061,4
+1638872567.2707524,1638872582.494137,"Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",Miles Davis,spotify:track:2x91iJc0UkFcjRMEZ2CoWB,jazz trumpet,0.639,0.186,8,-15.831,1,0.0347,0.704,0.00104,0.118,0.498,128.375,4
+1638872597.7974205,1638872613.1166713,Uberall Hinterhalte Auslegen (Ambush at All Sides),Pan Jing and Ensemble,spotify:track:257wkDETXP4rnUJrZD2nsD,chinese folk,0.348,0.0977,2,-20.886,1,0.0474,0.951,0.946,0.0701,0.0977,170.239,5
+1638872628.4080687,1638872643.5810485,The Alchemist,Haarper,spotify:track:7CrRiJJd6UNRWyYdQTBI1U,drift,0.859,0.797,1,-6.404,1,0.26,0.158,0.68,0.0501,0.359,169.959,4
+1638872658.8293946,1638872674.05156,Ignorance (Metal Massacre VIII),Sacred Reich,spotify:track:1fDHnK1JrcXeucJCRMXJlw,groove metal,0.214,0.974,9,-7.242,1,0.0865,0.000108,0.00305,0.218,0.0589,96.518,4
+1638872689.4435298,1638872704.5924203,Waking up in London - Feel Mix,Duncan McCrone,spotify:track:37eUZRJbOVXvfvML63GhYH,scottish folk,0.316,0.24,4,-12.439,1,0.0316,0.917,0.000865,0.0971,0.276,113.382,4
+1638872719.987243,1638872735.1458085,Masih Hip Hop (feat. Daly & Altimet),DJ Fuzz,spotify:track:5nPyp0lGWnxW3HJGkZw8E7,malaysian hip hop,0.889,0.645,6,-6.356,0,0.285,0.47,0,0.34,0.92,97.987,4
+1638872750.4891672,1638872765.6406744,Think (About It) - Richard Payton Unreleased Soulful House Mix,Barbara Tucker,spotify:track:3tv8b7OeRhwvhfG3sjH5nu,deep soul house,0.724,0.799,1,-5.885,0,0.0605,0.00287,0.00184,0.0506,0.537,124.032,4
+1638872780.9577682,1638872796.171135,Old faroese hymn - Tíðin rennur,Stanley Samuelsen,spotify:track:26C2VbfY4oFoq9Rsb5IVPo,faroese folk,0.415,0.389,10,-12.175,1,0.0308,0.641,0.00388,0.149,0.604,119.35,4
+1638872811.4334059,1638872826.7079074,Forever Young - State of States Remix,Trance Future,spotify:track:00AVxgamPSAZSDJItqcLvE,covertrance,0.462,0.988,7,-5.505,1,0.0521,0.000208,0.0062,0.113,0.335,140.009,4
+1638872842.4245384,1638872857.7890122,Archon,Haarper,spotify:track:2p0hXoywTRphFaBOApH5Ew,drift,0.747,0.829,8,-5.822,1,0.0422,0.0187,0.572,0.125,0.281,136.024,4
+1638872873.2809205,1638872888.5198283,Koodakan e Khiabani,Naser Abdollahi,spotify:track:79AA98SZAkn9Kqpi3mlQuY,persian pop,0.48,0.879,0,-6.961,0,0.358,0.392,0.00095,0.108,0.356,104.241,4
+1638872904.132607,1638872919.3713741,Never Gonna Give You Up,The Cooltrane Quartet,spotify:track:2oD3ivFZnfyciys07pNXoN,coverchill,0.736,0.417,9,-11.39,0,0.0324,0.697,0.00249,0.0967,0.399,101.969,4
+1638872934.6673894,1638872949.854135,Une journée à la fois,Clément Jacques,spotify:track:74xHhN6b4Aow7cEcD4MpJw,quebec indie,0.4,0.636,4,-5.609,1,0.0438,0.118,0.0151,0.261,0.454,147.831,4
+1638872965.2009583,1638872980.403054,Ni**a Ni**a Ni**a,Gangsta Rap,spotify:track:2oBd6KgXMeh0alqHHli0J4,meme rap,0.922,0.622,7,-6.517,1,0.278,0.00415,0,0.285,0.571,94.981,4
+1638872995.7289157,1638873010.8860247,Jazz It Up,FX909,spotify:track:4veDwH1HFqeqBCMyL2DEQO,french jazz,0.68,0.877,2,-5.133,0,0.0632,1.93e-05,0.913,0.107,0.289,174.013,4
+1638873026.6197948,1638873041.7831254,Rev. Up,Madball,spotify:track:7splB6KZq3eDtRTgDfMRyj,nyhc,0.487,0.991,5,-4.057,0,0.133,0.000102,0,0.0543,0.393,154.815,4

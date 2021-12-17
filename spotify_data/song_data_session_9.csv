@@ -1,0 +1,118 @@
+timestamp_start,timestamp_end,name,artist,uri,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+1637708035.7473745,1637708050.9503489,Oncle André,Cantu di Cirnu,spotify:track:4HioEm0WCU8pAplTEVNBjY,corsican folk,0.522,0.545,5,-9.068,1,0.0805,0.974,0.0823,0.649,0.736,128.391,4
+1637708066.361133,1637708081.5021424,Aht Uh Mi Hed,Shuggie Otis,spotify:track:6eOiJuoyzAQeY0JHf5ZBWX,afrobeat,0.822,0.618,6,-8.14,0,0.0287,0.364,0.147,0.101,0.816,102.602,4
+1637708096.7660441,1637708111.9316795,Imbalance of the Cosmos,Klavium,spotify:track:3AQybDGiNRCdgkyf2KMPi2,caribbean metal,0.314,0.929,1,-7.88,1,0.0516,4.4e-05,0.000953,0.277,0.505,114.349,4
+1637708127.2248964,1637708142.3779433,"Pau em uma Pau em Outra (feat. Palok no Beat, MC Metal & Mc Vuiziki)",Barca Na Batida,spotify:track:6DajjgGdACYqoPTy4pjkMQ,funk metal,0.692,0.738,0,-6.103,1,0.168,0.0741,0.0076,0.132,0.82,170.113,4
+1637708157.6914191,1637708172.9073465,Já Te Esqueci - Live,Leo Santana,spotify:track:0AZiJEmzG6v4E5b82Q73Qx,axe,0.71,0.838,6,-3.774,0,0.0486,0.609,0,0.0822,0.965,161.969,4
+1637708188.1464732,1637708203.357942,Moon And Sand,Gil Evans,spotify:track:0qZF66paTfzKODcN93o3xH,free jazz,0.657,0.256,7,-22.018,0,0.0473,0.949,0.918,0.107,0.684,125.744,4
+1637708218.6820123,1637708233.9031286,I Wanna Rock,Twisted Sister,spotify:track:70Z9t1qhytWtG4cCmmi7mU,glam rock,0.504,0.911,2,-2.97,1,0.0738,0.00512,0.0123,0.355,0.671,106.244,4
+1637708249.3463461,1637708264.4898322,El Omr Fat,Raad And Methaq,spotify:track:22hxA7UXkb5Zajyk1WKxts,khaliji,0.558,0.689,0,-7.367,0,0.0646,0.403,0.000686,0.082,0.624,99.595,4
+1637708279.8701146,1637708295.0362587,Come Over (feat. Popcaan),Jorja Smith,spotify:track:58mtgcQVZ56NgWHKsN94nD,uk pop,0.702,0.652,10,-5.587,0,0.318,0.0608,2.21e-06,0.277,0.524,178.011,4
+1637708310.2817342,1637708325.4424627,Jag Är Inte Bitter,The Good The Bad and The Zugly,spotify:track:2ZPmZRBn5f6ufk1Z6NnJ4Z,norwegian hardcore,0.392,0.741,5,-5.932,1,0.0444,0.000843,0.00956,0.623,0.334,135.054,4
+1637708340.75198,1637708355.9528606,Fall Asleep,Big Joanie,spotify:track:0PZQWlZ4A8CSD1f9P9xoTx,queercore,0.559,0.974,9,-3.62,1,0.109,0.0458,2.47e-05,0.205,0.605,137.021,4
+1637708371.1783164,1637708386.3944616,Como una Estrella,Víctor Manuelle,spotify:track:0C09HZicGLpFZei3u2nt8k,modern salsa,0.491,0.919,2,-4.224,0,0.0503,0.125,2.2e-05,0.0897,0.894,89.891,4
+1637708403.0744696,1637708418.324163,Unforgettable,101 Strings Orchestra,spotify:track:551wRwpwsG5gaLWG5UxLG3,easy listening,0.219,0.254,10,-11.835,1,0.0306,0.895,0.809,0.145,0.0976,88.431,4
+1637708433.7033894,1637708448.930672,O Holy Night - A Cappella,Eagles Of Death Metal,spotify:track:2MQZ8cktRhh2OfElT8Z2xt,a cappella,0.293,0.279,0,-9.661,1,0.0326,0.981,0,0.347,0.25,130.034,3
+1637708464.318604,1637708479.5612302,Justiça Injusta,Gritando Hardcore,spotify:track:2YNLp1PtIZ7hZ8mZyjrjlM,brazilian hardcore,0.399,0.985,0,-4.361,1,0.0938,0.00299,0,0.347,0.209,111.564,4
+1637708494.9196618,1637708510.0878723,Be Positive in New Year,Chinese Relaxation and Meditation,spotify:track:0xP6bGfJbZ5XTO7k1htlzo,chinese new year,0.395,0.207,0,-21.423,1,0.0381,0.985,0.981,0.104,0.346,108.148,3
+1637708525.3269277,1637708540.5497909,She Moves In Her Own Way,The Kooks,spotify:track:1BuCy88dqYu5zd4GCNuHh8,brighton indie,0.465,0.811,7,-5.392,1,0.0619,0.273,0,0.0968,0.811,76.776,4
+1637708555.925743,1637708571.0744934,"I'll Fly Away - From “O Brother, Where Art Thou” Soundtrack",Gillian Welch,spotify:track:4Bx3FZTD9LkJuKed8YzaNK,roots americana,0.688,0.26,2,-13.686,1,0.0349,0.984,0.0231,0.112,0.444,102.937,4
+1637708586.8098648,1637708602.017322,Time Of Punk - Coming Soon Remix,Symphonix,spotify:track:4BnbikiTI0h456nhFd37Dz,psychedelic punk,0.803,0.698,9,-7.222,1,0.0578,0.0596,0.893,0.847,0.188,138.01,4
+1637708617.4375012,1637708632.7041774,Das ist unser Gott - Live,Ecclesia Worship,spotify:track:1ShqHSRdEL6HEz85chebxz,german worship,0.502,0.912,7,-6.105,1,0.0337,0.00159,1.84e-05,0.371,0.402,106.982,4
+1637708648.2279973,1637708663.4415421,Other Language,Deafheaven,spotify:track:1S37C41B9BmObecWMqlnUr,blackgaze,0.388,0.811,2,-6.146,0,0.0371,0.00127,0.866,0.0723,0.107,129.2,4
+1637708678.8427837,1637708694.0561924,Organic Portal,Gutted Souls,spotify:track:22adiwnqk7XxsLYjqI4HmZ,brazilian death metal,0.246,0.958,4,-7.576,1,0.132,0.00356,0.828,0.415,0.237,110.024,4
+1637708709.500861,1637708724.705853,O Holy Night - A Cappella,Eagles Of Death Metal,spotify:track:2MQZ8cktRhh2OfElT8Z2xt,a cappella,0.293,0.279,0,-9.661,1,0.0326,0.981,0,0.347,0.25,130.034,3
+1637708739.9609816,1637708755.0961614,Insanity,Paraforce,spotify:track:3isMVReeEkRb8nE9CPBIox,dark psytrance,0.678,0.998,11,-2.43,0,0.0491,5.57e-06,0.873,0.41,0.21,148.008,4
+1637708770.4032495,1637708785.5996864,Milk & Honey,Tropkillaz,spotify:track:0O1jQHSpRmcu7t1rnI3BPQ,pop edm,0.698,0.908,1,-2.897,0,0.053,0.0775,0,0.323,0.605,99.99,4
+1637708800.9300091,1637708816.1442835,Kings & Queens,Urban Cone,spotify:track:3PTCOMnUkYJbBlYo455GM4,swedish urban,0.533,0.799,0,-3.273,1,0.0372,0.00174,0.00236,0.136,0.795,129.997,4
+1637708831.4850457,1637708846.6912484,All I Got,Said The Sky,spotify:track:1iaTDu4PCIWQQOwwwqq5qW,dubstep,0.326,0.578,2,-6.786,1,0.0455,0.158,0.00479,0.575,0.102,144.731,4
+1637708861.9989965,1637708877.2041655,Fragment Eight... The Sound of Swing (feat. The Hellerup Cool School Choir),Kenneth Bager,spotify:track:2G7E5ZCiVr057Ea5G0YCsI,danish jazz,0.565,0.841,6,-5.859,0,0.0565,0.0259,0.821,0.426,0.706,179.853,4
+1637708892.6650305,1637708907.8233557,Mitos - 4 Uirapuru,Ney Rosauro,spotify:track:4w8cqzkHKUKn4a8dzLXoBW,brazilian percussion,0.26,0.0254,5,-28.462,1,0.0886,0.65,0.419,0.159,0.0684,71.961,3
+1637708923.1392088,1637708938.3432462,She Ain't You (Karaoke Instrumental Track) [In the Style of Chris Brown],Seven Band,spotify:track:6ufz9alw6GnXPrd2msr7ls,persian hip hop,0.59,0.72,11,-7.496,0,0.0625,0.205,0.253,0.305,0.267,182.071,4
+1637708953.6581047,1637708968.8958323,"50 Russian Folk Songs, TH 176: 49. Song of the Volga Boatmen",Pyotr Ilyich Tchaikovsky,spotify:track:3qGhHyDJR7LZB60NP8y9mO,russian folk,0.498,0.0665,10,-19.843,0,0.0387,0.987,0.823,0.0957,0.249,106.337,4
+1637708984.2203462,1637708999.4363701,O proles Hispanie - O sidus Hispanie,Guillaume Dufay,spotify:track:5sWFKcZYiD83vwMLAAahfJ,school ensemble,0.189,0.111,9,-20.008,1,0.0424,0.993,0.00111,0.066,0.13,84.969,4
+1637709014.7051506,1637709029.9202673,"Bassoon Concerto in E flat major, RV 483: 1. Presto",Antonio Vivaldi,spotify:track:5oDMFHo3W71Gf7paVVc0Vp,italian bass,0.425,0.343,10,-20.512,1,0.0322,0.976,0.963,0.166,0.811,136.59,4
+1637709045.1562538,1637709060.3871553,Incense And Peppermints - Stereo Version,Strawberry Alarm Clock,spotify:track:6eu7ONfYS5kqWPI3gB3ZBR,psychedelic pop,0.464,0.766,9,-7.035,1,0.0301,0.0887,0,0.111,0.705,132.713,4
+1637709075.8156433,1637709090.9709382,Yo Vendo Unos Ojos Negros,Huascar Barradas,spotify:track:1Mx3HYeMzmwOsDvE25CNKd,pop chileno,0.564,0.499,2,-5.964,1,0.0364,0.342,0.365,0.14,0.379,126.533,3
+1637709106.5032723,1637709121.6722207,Wake Me Up When September Ends,Lance Allen,spotify:track:6xOxjonbwoFS5EvPYXdN9Q,fingerstyle,0.515,0.246,7,-12.262,1,0.0288,0.8,0.736,0.12,0.145,106.463,4
+1637709136.9763124,1637709152.1863894,Six Feet Under,Repulsion,spotify:track:0GWA7Gz1CL6DSHfUqPpwOu,voidgrind,0.0824,0.994,6,-1.179,0,0.149,5.91e-06,0.897,0.227,0.0367,172.357,4
+1637709167.4119687,1637709182.5561285,The Holly & the Ivy,"Choir of King's College, Cambridge",spotify:track:7cC1URAbj6nAWHTBmcRX0c,cambridge choir,0.272,0.179,7,-21.125,1,0.0566,0.99,0.0161,0.0924,0.194,89.34,5
+1637709197.8177052,1637709213.0260892,Home on the Range,Brown Owl Plays,spotify:track:5JPH5GugDmy2ODf3M5zi8L,instrumental acoustic guitar,0.423,0.168,7,-15.808,1,0.0685,0.97,0.946,0.113,0.238,94.547,4
+1637709228.3295865,1637709243.562758,Keep on Loving You,Cigarettes After Sex,spotify:track:5VYBergVrUDcb8QyEg70cF,shoegaze,0.456,0.364,2,-9.336,0,0.0252,0.533,0.96,0.111,0.116,73.457,4
+1637709258.921648,1637709274.1184316,Wasted All Of My Time,Sencer Akkus,spotify:track:4a3zvOQmMRnnWM4fWsb4M6,deep tropical house,0.812,0.397,4,-5.477,0,0.0578,0.0214,0.304,0.0338,0.738,119.998,4
+1637709289.4177148,1637709304.5701306,"Messiah, HWV 56, Pt. 2: Part II: Aria: He was despised and rejected of men (Countertenor)",George Frideric Handel,spotify:track:2QPtogD2D4BPFf4FYGG4CO,classical countertenor,0.234,0.0154,2,-30.214,1,0.0475,0.869,0.000643,0.109,0.0742,131.114,4
+1637709320.0320215,1637709335.2411394,Rock & Folk,Kérkennai,spotify:track:1IjpETpecGjkvEjMiCWCSv,spanish folk rock,0.522,0.87,9,-6.627,0,0.0355,0.0101,0.00767,0.0835,0.555,135.099,4
+1637709350.613246,1637709365.8210368,"Vivaldi: Tito Manlio, RV 738, Act I: ""Di verde ulivo"" (Vitellia)",Antonio Vivaldi,spotify:track:1mCfxKRrpJ1UM7jnTxiAE8,classical contralto,0.361,0.237,1,-17.956,1,0.0507,0.951,0.289,0.106,0.289,72.005,4
+1637709381.3357885,1637709396.4732254,Into the Void,Cancer Bats,spotify:track:4umZlZC9nx1a967Jk25JyJ,hard stoner rock,0.252,0.908,7,-6.926,1,0.0978,0.0251,0.0186,0.612,0.494,85.73,4
+1637709411.843164,1637709427.0323763,Unbelievers,Vampire Weekend,spotify:track:51DZ0wUocQ8sQfjnibXVcD,modern mod,0.644,0.811,11,-7.774,1,0.0517,0.149,0.000473,0.17,0.817,154.909,4
+1637709442.3333433,1637709457.5086732,A Veces Vuelvo,Catupecu Machu,spotify:track:55Y3EFpYXRPyNGK8rBNV9a,argentine indie,0.595,0.837,1,-4.282,1,0.036,0.0177,0,0.0418,0.613,126.5,4
+1637709472.8123808,1637709487.9578469,"Oh, Had I a Golden Thread",Judy Collins,spotify:track:1ulAYzcIwTP0xZISrm8M1E,american folk revival,0.373,0.0516,3,-17.903,1,0.0352,0.965,1.55e-05,0.137,0.211,128.967,3
+1637709503.1861112,1637709518.408299,Heart Of Pop (Percayalah) - Live At Distore Sound,Closehead,spotify:track:7fJPFLzplG0X7yKqjZGAZe,indonesian pop,0.244,0.9,2,-5.101,1,0.0459,0.0259,4.58e-06,0.317,0.453,97.503,4
+1637709533.8002021,1637709549.0070155,O´batschesch,Sadiq,spotify:track:4cnRTd89u44er9ZKzcy6wT,rap maroc,0.752,0.748,7,-5.891,1,0.247,0.139,0,0.277,0.357,92.06,4
+1637709564.6644924,1637709579.8073874,Te Lo Advertí,Ecko,spotify:track:6yrllvYE6sdiREEoEGdTIJ,trap argentino,0.726,0.611,4,-6.966,0,0.0405,0.0712,3.08e-06,0.101,0.328,100.976,4
+1637709595.056159,1637709610.2621093,Dream & Love - Pingpong Tanzt Mix,Lexer,spotify:track:2fXDDixjjUAya7VfIYZ5Cb,deep deep tech house,0.767,0.738,5,-9.608,0,0.0633,0.0753,0.892,0.907,0.435,122.001,4
+1637709625.5550094,1637709640.851763,Automation,King Gizzard & The Lizard Wizard,spotify:track:03CS8ifzdYuzNCyzshYl7Z,microtonal,0.375,0.661,6,-7.113,0,0.0362,2.29e-05,0.0135,0.23,0.512,91.611,4
+1637709656.0923684,1637709671.2598965,Asesino Si Entro en Trance,Oscar Lee,spotify:track:4FLbbfGiTBtgTy7VZUsq8T,mexican hip hop,0.614,0.738,3,-7.31,0,0.265,0.554,0,0.126,0.546,79.934,4
+1637709686.5688307,1637709701.7785354,I'm a Warrior (Live),Rob Rock,spotify:track:5HKC57QiOYGspyCBAUpmrc,christian metal,0.37,0.902,5,-5.005,0,0.0878,0.000194,0.00227,0.964,0.464,134.191,4
+1637709717.15259,1637709732.3583417,"Teri Ore (From ""Singh Is Kinng"")",Rahat Fateh Ali Khan,spotify:track:7KF2NJNmZWHhH1KvcfpXGU,qawwali,0.483,0.798,2,-4.623,1,0.0972,0.176,0,0.24,0.691,83.684,4
+1637709747.8329709,1637709763.0651257,War At Meadow's Edge,Chris Huelsbeck,spotify:track:0WfEMNM5SAljrugPaUkg3d,c64,0.522,0.702,10,-9.792,1,0.0286,0.0781,0.714,0.0803,0.433,139.927,4
+1637709778.5002096,1637709793.7121513,"Symphony No.2 in C minor - ""Resurrection"" / 5th Movement: (Trombone)",Gustav Mahler,spotify:track:4ftip1wBiR7duDZg3JoUkt,classical trombone,0.203,0.0109,5,-33.138,1,0.036,0.959,0.92,0.0993,0.0648,99.601,3
+1637709809.0201724,1637709824.1661818,Carnival of the Animals: XIII. Le Cygne (The Swan) (arr. Z. Kocsis for cello and piano),Zoltán Kocsis,spotify:track:0euwU7Czw7JR3Hq2HNwSyA,hungarian pop,0.187,0.0697,7,-23.585,1,0.0421,0.994,0.83,0.0913,0.0389,120.576,4
+1637709839.5245397,1637709854.7390106,A Vida É Curta Pra Viver Depois,BaianaSystem,spotify:track:4xPPF5W9mfp63DrCCZV5sf,afrobeat,0.685,0.702,8,-6.914,1,0.0541,0.397,6.35e-05,0.114,0.57,92.03,4
+1637709870.0560176,1637709885.2680097,Main Titles - The Children of Chernobyl,Der Blaue Reiter,spotify:track:29QO6ckOvEyMJeD3RytQ0p,martial industrial,0.278,0.297,9,-12.612,0,0.0383,0.841,0.291,0.96,0.0392,118.198,4
+1637709900.5962827,1637709915.788139,Poppens Mussolinis - Inspelad för SR Tonkraft 1975,Nationalteatern,spotify:track:3hPj2tlapo8Wpmc73gwenA,swedish prog,0.49,0.713,2,-9.213,1,0.314,0.391,4.68e-05,0.214,0.566,108.747,4
+1637709931.384923,1637709946.52748,Ombliguito,Cecilia Echenique,spotify:track:6VwtJY6sZG7kOwosDbBjmh,villancicos,0.671,0.144,2,-14.369,1,0.0376,0.888,1.03e-05,0.111,0.52,85.214,4
+1637709961.9522336,1637709977.421396,"Popurrí 1 - El Tallarín, El Mamut Chiquitito, El Cocodrilo, Incy Wincy Araña, Una Viborita",El Reino Infantil,spotify:track:0wcsb4xgE5XzQUHIxOppCL,latin pop,0.714,0.541,9,-5.574,1,0.0285,0.646,0,0.176,0.747,121.011,4
+1637709992.6887002,1637710007.8930616,Update - Alexander Kowalski Remix - remastered,Jay Denham,spotify:track:2xfZsyohvQzq0a7LlBsx0Z,detroit techno,0.695,0.975,8,-6.544,0,0.0546,0.00906,0.864,0.0795,0.625,136.479,4
+1637710023.2561727,1637710038.3922808,Dance in the Court of Arqun Shah (For Traditional Instruments),Farhad Fakhreddini,spotify:track:65z5Tob1bCKDo2NewazqHi,persian traditional,0.51,0.372,10,-13.425,1,0.0294,0.867,0.978,0.132,0.609,174.794,4
+1637710053.7176828,1637710068.9334064,Retrato Em Branco E Preto - Live,João Gilberto,spotify:track:1KYLxTURWPCLgRU97qusUj,brazilian jazz,0.435,0.261,0,-15.914,1,0.0807,0.934,0.00725,0.944,0.149,119.248,4
+1637710084.1766212,1637710099.376434,Samba - Original Mix,Du'art,spotify:track:0qDh5W0alUj9NazKJBrw1D,re techno,0.553,0.985,11,-7.729,0,0.0665,0.00024,0.775,0.158,0.367,139.001,4
+1637710114.6148992,1637710129.8271375,Apologize,Silverstein,spotify:track:6Z0gK8Fp0AqS9EX8Icp4hj,post punk,0.478,0.72,1,-6.845,1,0.0415,0.000728,0,0.0947,0.26,135.129,4
+1637710145.3082135,1637710160.453584,Four Aspects,Daphne Oram,spotify:track:5ilOaGDHaBV1F7ePliCFL4,british experimental,0.197,0.287,1,-21.616,1,0.373,0.898,0.926,0.112,0.0619,83.561,1
+1637710175.6961439,1637710190.8409827,Overtyyri,Frigg,spotify:track:3tBnSRv1vlfskNcQJqI0ZN,hardingfele,0.233,0.33,11,-13.622,0,0.036,0.349,7.35e-05,0.0913,0.362,123.364,1
+1637710206.081114,1637710221.3034105,Storm Obliteration,Genocide Commando,spotify:track:7kKJvoYEAkvYUmWdUWV7kL,raw black metal,0.216,0.978,7,-5.342,1,0.113,6.3e-05,0.863,0.203,0.027,155.223,4
+1637710236.544455,1637710251.7013364,Eu Quero É Rolo - Ao Vivo,Bruno & Barretto,spotify:track:4w0cCMoBqV56bv4Rg8Kcc6,sertanejo universitario,0.669,0.902,11,-3.741,1,0.0892,0.111,1.18e-05,0.598,0.695,94.929,4
+1637710266.9391503,1637710282.14016,"10 Canções Populares Húngaras, Op. 87: No. 7, Látodé te azt a hegyet",Fernando Lopes-Graça,spotify:track:2TnU1B3P6hAIsfrWhXD9hL,portuguese folk,0,0.13,2,-13.41,1,0,0.97,0,0.0998,0,0,0
+1637710297.3824298,1637710312.5515032,The Fire of Love - Remastered 2020,The Gun Club,spotify:track:7tmQ1VZJPXLvZBNHpgBERX,experimental club,0.444,0.933,4,-4.683,1,0.045,0.000923,0.0267,0.233,0.643,109.967,4
+1637710327.7979393,1637710343.012908,Nickels and Dimes,Extra Stout,spotify:track:3IzgDd5ylCNw8LmPxAhAW4,hawaiian punk,0.316,0.876,1,-12.433,1,0.0553,0.0534,0.0389,0.0761,0.386,112.327,4
+1637710358.3268783,1637710373.507986,"Suite No 1 in E flat major Op.28, No3: March",Eastman Wind Ensemble,spotify:track:7bGoffbvOF4Mvy6EihbxSW,wind ensemble,0.447,0.668,8,-10.372,1,0.136,0.888,0.834,0.29,0.512,143.699,4
+1637710388.7541337,1637710403.9654918,King Of NEPHOP,Lil Buddha,spotify:track:2CkO4DmDgY4j8JIITSuJbA,nephop,0.576,0.649,6,-4.623,1,0.341,0.147,0,0.0943,0.495,82.564,4
+1637710419.2144074,1637710434.426188,Marcha De Odio,Brujeria,spotify:track:7j45PLEVWioABZ9VAnvbjx,deathgrind,0.476,0.992,8,-6.302,0,0.169,0.000724,0.821,0.137,0.182,154.624,4
+1637710449.7374203,1637710464.9455438,It's in You,Modern Vice,spotify:track:2FKx50Jf1IcNnjrJX5Haae,indie shoegaze,0.436,0.865,11,-7.502,0,0.0432,0.000152,0.511,0.328,0.464,113.533,4
+1637710480.1628356,1637710495.3074367,Illuminate,Motör Militia,spotify:track:5ntXYvQYMFkgscvcE2OoPw,arab metal,0.564,0.973,2,-4.972,1,0.097,0.000447,3.96e-05,0.234,0.494,112.494,4
+1637710510.6823192,1637710525.8552108,Jah Bong Ju Aim (Old Sour & Sweet),Ros Serey Sothea,spotify:track:2NmbSY9FDLwgcdrAobRaWL,cambodian rock,0.588,0.913,9,-4.104,0,0.0413,0.0233,0.639,0.117,0.935,117.726,4
+1637710541.098426,1637710556.3120003,In a Big Country (Live),Big Country,spotify:track:5S3GWlLgznzPm8EBRWorcw,scottish hip hop,0.52,0.94,9,-5.26,1,0.0614,0.00203,0.0214,0.969,0.722,126.757,4
+1637710571.6740468,1637710586.82204,Heart & Soul,Built By Titan,spotify:track:5NBydKfT9AABnIYLRnJrdR,cedm,0.597,0.798,9,-5.206,1,0.0487,0.141,5.95e-06,0.396,0.453,129.017,4
+1637710602.035413,1637710617.1862214,Sound of da Police,KRS-One,spotify:track:3Y6XWs8xMlCngyIxNOFnsp,turntablism,0.794,0.95,1,-8.78,1,0.294,0.124,7.71e-05,0.133,0.324,94.984,4
+1637710632.576405,1637710647.785343,Justiça Injusta,Gritando Hardcore,spotify:track:2YNLp1PtIZ7hZ8mZyjrjlM,brazilian hardcore,0.399,0.985,0,-4.361,1,0.0938,0.00299,0,0.347,0.209,111.564,4
+1637710663.1083572,1637710678.329062,Pibare Ramarasam - Yamunakalyani - Adi,M. S. Subbulakshmi,spotify:track:6mVZ46TZ8S4XLknpAXUfhI,carnatic,0.469,0.477,11,-9.399,1,0.0401,0.995,0.89,0.41,0.6,84.425,4
+1637710693.5773568,1637710708.8153892,The US Air Force Song (Off We Go Into the Wild Blue Yonder) - 50th Anniversary Arrangement,US Air Force Heritage of America Band,spotify:track:1KGZPyxfcjvGXTWJu8nwTI,military band,0.454,0.476,5,-10.746,1,0.0706,0.88,5.99e-06,0.259,0.406,116.452,4
+1637710724.3560646,1637710739.5131304,Oro (Bronco Con Mariachi),Bronco,spotify:track:73bKdyNmN4uXWAmX4rzf1P,regional mexican,0.589,0.769,7,-5.961,1,0.0295,0.206,5.6e-06,0.322,0.642,112.015,4
+1637710754.7582433,1637710770.034186,Alt und gut. Zum Beispeil: ein Wurstbrot. Emotionaler Beweis,Jochen Malmsheimer,spotify:track:2yOFBSv9qEwJE3mAQ3AYWE,kabarett,0.667,0.525,1,-11.5,1,0.888,0.757,0,0.793,0.46,128.168,3
+1637710785.6286795,1637710800.797177,Ruusunoksa ja kyyhkynen,Jari Sillanpää,spotify:track:6EWxdHoY2A11vz2rmBlo57,finnish tango,0.524,0.406,7,-9.67,1,0.03,0.633,0.000114,0.185,0.578,120.419,4
+1637710816.0470085,1637710831.1992064,Akagi blues,Noboru Kirishima,spotify:track:1vVc5NTFsRLKxocqWUQBXA,ryukoka,0.417,0.314,9,-8.68,0,0.0289,0.942,0.00054,0.304,0.675,84.787,4
+1637710846.4608934,1637710861.6730103,Y Por Esa Calle Vive (feat. Isidro luna de Sueño Norteño),Cumbre Norteña,spotify:track:1s4V7XeLDhPgnNQn2pAj7t,deep norteno,0.741,0.784,7,-4.768,1,0.0335,0.237,3.27e-06,0.215,0.63,118.031,4
+1637710876.9171903,1637710892.0521579,I Don't Wanna Die,Subhumans,spotify:track:5nUyAK0XS0jKdiICq3uQwZ,uk82,0.183,0.94,11,-11.864,0,0.0991,0.0022,0.00438,0.404,0.22,169.618,4
+1637710907.5289102,1637710922.7533846,A State Of Trance (ASOT 1043) - Coming Up,Armin van Buuren,spotify:track:6oPXFFnntKX1QI5zR34A6p,progressive trance,0.635,0.755,1,-7.473,1,0.366,0.189,0,0.504,0.763,67.476,4
+1637710938.048277,1637710953.2071187,Where My Eileen Is Waiting,Johnny McEvoy,spotify:track:6PETXTpWr8Ys120KXMZ0ac,nl folk,0.496,0.73,11,-7.788,1,0.139,0.61,0,0.646,0.828,82.478,3
+1637710968.4862132,1637710983.632971,Chamber of Wonders,Neurosystem,spotify:track:34Zyy4A0kVDOoEqBLZo96P,croatian electronic,0.51,0.991,1,-6.066,1,0.0586,0.000102,0.85,0.35,0.0407,148.05,4
+1637710998.9505363,1637711014.1694727,Plukka Plommer I Hardanger,3 Busserulls,spotify:track:6DnVY1h5xKfqRlhELHHTtp,norwegian pop,0.831,0.554,0,-7.663,1,0.031,0.583,0,0.0707,0.78,111.98,4
+1637711029.4861922,1637711044.7213695,It's a Shame,Laid Back,spotify:track:1rReDZznbIebyA5IPEldHj,italian pop rock,0.635,0.933,0,-3.992,1,0.047,0.0183,0.41,0.226,0.671,118.681,4
+1637711059.9753435,1637711075.187174,Slow Down Old World,Willie Nelson,spotify:track:1ibZDINKx33OqvGFxfMRGC,nashville singer songwriter,0.289,0.255,9,-12.101,1,0.0316,0.711,0.000348,0.149,0.182,169.215,3
+1637711090.4353254,1637711105.6605604,Kaufmann und Maid,Saltatio Mortis,spotify:track:78B9RvFjcpSQgGFtjy1zBE,hurdy gurdy,0.565,0.768,2,-5.332,0,0.0382,0.0277,0,0.0725,0.58,124.006,4
+1637711121.0460546,1637711136.1863194,The Grace Of Nature,Shakuhachi Sakano,spotify:track:1e2CZqps9V1JHVgP0BCezs,world meditation,0.184,0.0954,2,-19.496,1,0.0433,0.99,0.942,0.298,0.0683,160.022,5
+1637711151.403956,1637711166.5869257,Koop Island Blues,Koop,spotify:track:28Zg3EXyibO3UEda2WirSV,electronica,0.555,0.537,10,-9.041,0,0.0314,0.731,0.0524,0.287,0.521,79.239,4
+1637711181.8064542,1637711197.0021951,Black and Yellow (Karaoke Instrumental Track) [In the Style of Wiz Khalifa],Seven Band,spotify:track:6uoQSt9RyGvzkPXdSxloVd,persian hip hop,0.45,0.789,2,-8.294,0,0.0441,0.00172,0.00031,0.393,0.891,163.982,4
+1637711212.4346235,1637711227.6032279,Asato Maa,Ravi Shankar,spotify:track:0w42mTyf4d7Jp0WqlZhrQO,sitar,0.429,0.111,5,-14.883,1,0.0337,0.972,0.714,0.106,0.0819,107.35,4
+1637711242.9106705,1637711258.0634325,Aba olle samme Wixa,Hans Söllner,spotify:track:0HJr0QokPNvRGHFnPRBtJt,kabarett,0.724,0.365,5,-16.122,1,0.837,0.608,0,0.886,0.839,105.03,4
+1637711273.3922875,1637711288.5452037,"Fran-Dance (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Miles Davis,spotify:track:6YCAJqpG0uSZSwidZODdjW,hard dance,0.624,0.131,0,-14.532,0,0.0432,0.844,0.000358,0.0991,0.396,110.614,4
+1637711303.7834756,1637711319.0046802,Irremediablemente sólo,Cheo Feliciano,spotify:track:48wo33o5k0FLXjfebvk3OA,salsa venezolana,0.679,0.266,6,-14.462,0,0.0393,0.772,2.81e-05,0.091,0.555,97.424,4
+1637711334.3540826,1637711349.5622163,Unfuckwithable,Adam Jay,spotify:track:4oAwJPmy7heq0sWzT4jCXR,re techno,0.657,0.956,10,-6.093,0,0.143,0.000851,0.335,0.11,0.525,135.983,4
+1637711364.8325267,1637711380.0541813,Ek is So Lief Vir Jou,Gert Van Tonder,spotify:track:35Y9qIKYyBKzBI5sfctT3c,south african country,0.634,0.344,9,-8.077,1,0.0323,0.778,1.07e-06,0.127,0.571,111.682,4
+1637711395.3904333,1637711410.6176093,Adorarte MI SeÑor,Bengie,spotify:track:1TtHALhF565rPWvFknoPdz,rap cristiano,0.792,0.742,11,-7.377,0,0.16,0.0476,0,0.282,0.84,179.926,4
+1637711425.9341462,1637711441.183388,Transcend - feat. Armi,Ovall,spotify:track:5OE6NKJ7dcDbvoNg1z0Cgf,jazztronica,0.693,0.666,0,-9.47,1,0.0492,0.255,0.301,0.101,0.695,95.022,4
+1637711456.5201354,1637711471.7617571,Igual de Cruel,Kaos Urbano,spotify:track:61PPBhUmtFEsOwZCo1ZXld,punk urbano,0.482,0.955,7,-4.693,1,0.0566,0.00313,2.21e-05,0.164,0.686,170.061,4
+1637711487.0467725,1637711502.1871796,Rock Of All Ages - Remastered 2010,Badfinger,spotify:track:3kd0BRDyadp5qJKTH6Tp82,jangle rock,0.55,0.644,7,-8.848,1,0.0335,0.00127,8.11e-05,0.429,0.655,141.978,4
+1637711517.6900835,1637711532.8982666,El Norti: Rollo # 12: La Ley del Monte / La Luz de Tus Ojos / Tú y las Nubes / El Ayudante / Ojos Negros Nunca Engañan - En Vivo,Internacionales Conejos,spotify:track:13UvwzUkIFpTsQzQyfnLvE,marimba orquesta,0.68,0.915,9,-4.342,1,0.0367,0.0728,0.00298,0.0594,0.886,110.445,4
+1637711548.2140896,1637711563.6092727,Unfolding Sky,R. Carlos Nakai,spotify:track:6hnLWqLV5HqVaPOyBl5qHO,navajo,0.182,0.0181,4,-29.106,1,0.0378,0.992,0.902,0.11,0.0373,111.217,3
+1637711579.0651824,1637711594.2261722,Voodoo of the Godsend,Metal Allegiance,spotify:track:6R54a08oOZroEiEaTRxHI1,groove metal,0.546,0.977,9,-4.603,1,0.0532,0.000281,0.805,0.146,0.355,107.999,4
